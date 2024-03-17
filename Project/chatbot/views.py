@@ -41,5 +41,5 @@ class chatbot(View):
 
 
 def index(request):
-     return render(request,"/workspaces/Project/chatbot/templates/chatbot.html")
+     return render(request,"/Project/chatbot/templates/chatbot.html")
 

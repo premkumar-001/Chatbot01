@@ -1,8 +1,0 @@
-
-google-generativeai
-python-dotenv
-langchain
-langchain-community
-langchain_google_genai
-PyPDF2
-faiss-cpu

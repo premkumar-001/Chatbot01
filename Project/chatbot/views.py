@@ -41,5 +41,5 @@ class chatbot(View):
 
 
 def index(request):
-     return render(request,"templates/chatbot.html")
+     return render(request,"chatbot.html")
 
